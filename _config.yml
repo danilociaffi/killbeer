@@ -22,8 +22,8 @@ title: KillBeer
 email: officialkillbeer[at]gmail[dot]com
 description: >- # this means to ignore newlines until "baseurl:"
   Vertigo Volley
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/killbeer" # the subpath of your site, e.g. /blog
+url: "https://danilociaffi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: vertigovolley
 github_username: danilociaffi
 
