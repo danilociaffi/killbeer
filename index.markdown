@@ -19,9 +19,9 @@ Volevi sapere quando giochiamo? Ah no? Ora lo sai lo stesso. E se clicchi "Aggiu
 ## Contatti
 
 Vertigo Volley<br/>
-`indirizzo di casa del presidente`<br/>
-`numero di casa del presidente`<br/>
-`indirizzo email del presidente`<br/>
+Piazza Tommaso de Cristoforis 8, Roma<br/>
++39 334 706 3023<br/>
+emanuele.verticilo[at]gmail[dot]com<br/>
 
 Giochiamo qui, tenetevi alla larga:
 <div class="calendar-container">
